@@ -28,13 +28,13 @@
 <br />
 <p align="center">
   <a href="https://github.com/goleedev/">
-    <img src="./images/chat-icon.png" alt="Logo" width="100">
+    <img src="./src/images/race-icon.png" alt="Logo" width="100">
   </a>
 
-  <h3 align="center">Chatter Box</h3>
+  <h3 align="center">TBD - Race App</h3>
 
   <p align="center">
-    A real-time chat application for developers
+    A group to-do app to keep up the good work together
     <br />
     <br />
     <br />
